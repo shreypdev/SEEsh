@@ -1,7 +1,6 @@
 /*!
  * @author  Shrey Patel
  * @date    january 16, 2020
- * @brief   This is a Program 
  *          
  */
 
